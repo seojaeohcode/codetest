@@ -1,4 +1,5 @@
 
+//원래 제일 쉬운 방법은 유클리드 호제법
 //계수정렬 + 에라토스테네스의 체
 import java.io.IOException;
 import java.util.*;
